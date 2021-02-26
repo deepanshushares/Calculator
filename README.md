@@ -20,7 +20,7 @@ This is a simple calculator application that takes in 2 integers as input and gi
 
 Image 1                     |  Image 2             |  Image 3
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/deepanshushares/Calculator/blob/main/Images/image_1.png" width="250" height="500px"> |  <img src="https://github.com/deepanshushares/Calculator/blob/main/Images/image_2.png" width="250" height="500px"> |  <img src="https://github.com/deepanshushares/Calculator/blob/main/Images/image_3.png" width="250" height="500px">
+<img src="https://github.com/deepanshushares/Calculator/blob/master/Images/image_1.png" width="250" height="500px"> |  <img src="https://github.com/deepanshushares/Calculator/blob/master/Images/image_2.png" width="250" height="500px"> |  <img src="https://github.com/deepanshushares/Calculator/blob/master/Images/image_3.png" width="250" height="500px">
 
 ## Gif
 
